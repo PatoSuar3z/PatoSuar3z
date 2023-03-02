@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 [![My Skills](https://skillicons.dev/icons?i=bsd)](https://skillicons.dev)
 
 Hello, my name is Patricio Suarez, I am currently a computer engineering student at DuocUC, I am in my 3rd year of my degree. ✨
 <!--
@@ -20,20 +20,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I survive with a computer from 15 years ago
 
 ## Languages
+ 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,ts)](https://skillicons.dev)
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Ionic](https://img.shields.io/badge/-Ionic-000000?style=flat&logo=ionic)
 
 ## Tools:
 
-![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![Android Studio](https://img.shields.io/badge/-AndroidStudio-000000?style=flat&logo=android)
-![Netbeans](https://img.shields.io/badge/-Netbeans-000000?style=flat&logo=java)
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-000000?style=flat&logo=.net)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,angular,arduino,django,docker,github)](https://skillicons.dev)
+
+## My God
+
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
 
