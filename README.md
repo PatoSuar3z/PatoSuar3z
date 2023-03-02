@@ -33,3 +33,7 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://skillicons.dev)
 
 
+## Github Overview
+
+<img align="left" alt="PatoSuar3z Github Stats" src="https://github-readme-stats.vercel.app/api?username=PatoSuar3z&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatoSuar3z)](https://github.com/anuraghazra/github-readme-stats)
