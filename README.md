@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I survive with a computer from 15 years ago
 -->
 
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning Node.JS , React , NextJS , Nextron
 - ⚡ Fun fact: I survive with a computer from 15 years ago
 
 ## Languages
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,angular,arduino,django,docker,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,angular,arduino,django,docker,github,firebase,electron,sequelize,tailwind)](https://skillicons.dev)
 
 ## My God
 
