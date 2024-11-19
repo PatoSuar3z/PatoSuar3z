@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning Node.JS , React , NextJS , Nextron
-- ⚡ Fun fact: I survive with a computer from 15 years ago
 
 ## Languages
  
